@@ -2,6 +2,6 @@
 exercicio 18 ebac DA
 aula - Análise de Dados: Controle de Versão II
 Tópicos
-Adicionar e salvar;
-Visualizar e reverter;
-Persistir e atualizar.
+# Adicionar e salvar;
+# Visualizar e reverter;
+# Persistir e atualizar.
